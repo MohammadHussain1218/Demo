@@ -3,7 +3,7 @@ Tomcat server port no : 9095
 
 
 ==================================================== POST method ==============================================
-Inserting customer record
+Inserting customer records
 method : POST
 
 URL: http://localhost:9095/customer/addCustomer
